@@ -7,9 +7,7 @@ A linux PCB badge based on the linux penguin. There is no circuitry, just the PC
 # Front 
 
 
-
-
-
+![picture](https://github.com/Chromico/linux-penguin-PCB-badge/blob/master/front.png)
 
 
 # Back
