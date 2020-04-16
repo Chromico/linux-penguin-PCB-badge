@@ -11,3 +11,6 @@ A linux PCB badge based on the linux penguin. There is no circuitry, just the PC
 
 
 # Back
+
+
+![picture](https://github.com/Chromico/linux-penguin-PCB-badge/blob/master/back.png)
